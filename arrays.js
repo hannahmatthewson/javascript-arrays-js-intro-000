@@ -1,4 +1,4 @@
-var chocolateBars ["snickers", "hundred grand", "kitkat", "skittles"];
+var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
 
 addElementToBeginningOfArray(cities) {
   var cities = ["New York", "San Francisco"];
